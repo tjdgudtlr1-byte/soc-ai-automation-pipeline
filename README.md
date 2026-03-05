@@ -137,11 +137,11 @@ pip install -r requirements.txt
 
 ## Bridge Server
 
-python bridge.py
+python3 bridge.py
 
 ## Discord Bot
 
-python discord_bot.py
+python3 discord_bot.py
 
 ---
 
