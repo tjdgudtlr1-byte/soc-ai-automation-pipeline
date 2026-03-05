@@ -131,17 +131,17 @@ AI_BRIDGE_URL=http://127.0.0.1:9000
 
 # Run
 
-## Bridge Server
+## Install dependencies
 
+pip install -r requirements.txt
+
+## Bridge Server
 
 python bridge.py
 
-
 ## Discord Bot
 
-
 python discord_bot.py
-
 
 ---
 
